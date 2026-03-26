@@ -10,7 +10,7 @@
   
   ![Technologie Icons](https://skillicons.dev/icons?i=html,css,tailwind,react,typescript,vitest,figma,nodejs,express,postman,postgresql,docker,git,github,vite "Technologie Icons")
   
-- Additionally, I have used Vue.js, Three.js, React Three Fiber, Styled Components, Storybook, Blender, C, Python and Java.
+- Additionally, I have used Vue.js, Three.js, React Three Fiber, Styled Components, Storybook, GSAP, Framer Motion, Spline, Blender, C, Python and Java.
   
   ![Technologie Icons](https://skillicons.dev/icons?i=vue,c,java,python,threejs,blender "Technologie Icons")
 
