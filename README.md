@@ -1,8 +1,8 @@
 ### About me🧑:
-- Hi! I'm Juan Luis, a 24 years old Software Engineer based in Barcelona.
+- Hi! I'm Juan Luis, a 24 years old Frontend Engineer based in Barcelona.
 - I'm a Computer Engineering student at the UOC (Universitat Oberta de Catalunya) and a Certified Frontend Developer by UPC (Universitat Politècnica de Catalunya).<br/>
-- I've work as a Frontend Engineer at Barcelona Activa and I also worked as a freelance Frontend Developer for a local business.<br/>
-- I'm mainly interested in front-end development but also I like to learn about different areas of web development, as back-end, design, and DevOps, so that I can gain a broader understanding of the product.
+- I've work as a Frontend Engineer at Barcelona Activa and I also worked as a freelance for a local business.<br/>
+- I'm mainly interested in Frontend development but also I like to learn about different areas of web development, as Backend, Design, and DevOps, so that I can gain a broader understanding of the product.
 ---
 
 ### Tools & Tech🛠:
